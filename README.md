@@ -1,2 +1,4 @@
 # IBM-Project-40345-1660628501
 IoT Based Safety Gadget for Child Safety Monitoring &amp; Notification
+* TEAM LAEADER:MOHAMMED ASIF M
+* TEAM MEMBERS:SAFEEQ R,ALFAYADH TB,FARIS MUHAMMED P
